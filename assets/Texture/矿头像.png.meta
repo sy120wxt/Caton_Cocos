@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "2222cee3-abae-4a5f-8169-00fa6bfccc64",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "矿头像": {
+      "ver": "1.0.3",
+      "uuid": "c79a3527-ad1e-4332-b140-9b724671a556",
+      "rawTextureUuid": "2222cee3-abae-4a5f-8169-00fa6bfccc64",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -1.5,
+      "trimX": 6,
+      "trimY": 4,
+      "width": 112,
+      "height": 116,
+      "rawWidth": 121,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

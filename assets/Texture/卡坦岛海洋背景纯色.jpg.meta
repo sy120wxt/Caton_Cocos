@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "4116d650-61aa-4ea5-8ebc-18698cf50e51",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "卡坦岛海洋背景纯色": {
+      "ver": "1.0.3",
+      "uuid": "30f8d7d5-4583-4550-8a34-d60bdaea7b1b",
+      "rawTextureUuid": "4116d650-61aa-4ea5-8ebc-18698cf50e51",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

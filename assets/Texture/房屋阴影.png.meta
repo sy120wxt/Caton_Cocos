@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "db183a6f-ca9f-490f-9e02-a16198e10b68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "房屋阴影": {
+      "ver": "1.0.3",
+      "uuid": "f29f3199-f2da-4d54-9ec7-89715db2cc15",
+      "rawTextureUuid": "db183a6f-ca9f-490f-9e02-a16198e10b68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 30,
+      "rawWidth": 30,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
